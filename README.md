@@ -27,7 +27,7 @@ We are a group of motivated students from the **Faculty of Science, Ain Shams Un
 
 ### ⏰ Weekly Session
 - **Day**: Every **Saturday**
-- **Time**: **8:30 PM** (Cairo time)
+- **Time**: **8:30 PM**
 - **Duration**: Approximately **2 hours**
 
 ### 🎥 Are Sessions Recorded?
