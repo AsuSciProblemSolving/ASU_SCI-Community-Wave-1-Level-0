@@ -1,28 +1,59 @@
-# ASU_SCI Community `Wave 1` `Level 0` `2025`
-
-### **Who are we ?**
-
-We are a bunch of  students from the Faculty of Science, Ain Shams University, with lots of motivation and excellent programming skills wanted to share our experiences with our colleagues and encourage them to learn problem solving and participate in global competitions.
+# 👨‍💻 ASU_SCI Community – `Wave 1` | `Level 0` | `2025`
 
 ---
-### **Content :**
-  - [x] Data Types `28/6/2025`
-  - [x] Conditions `28/6/2025`
-  - [ ] Loops
-  - [ ] Arrays
-  - [ ] Strings
-  - [ ] Functions
-  - [ ] Recursion
-  - [ ] Time Complexity
 
+## 🌟 Who Are We?
 
-  ---
-  ### **Roles & Common questions:**
-   - *Session date* : `every Saturday 8:30 PM`
-   - *Will the session be recorded ?*
-     - yes, but it will be shared after a certain period of time.
-   
-
-
+We are a group of motivated students from the **Faculty of Science, Ain Shams University** with strong programming backgrounds. Our goal is to share our experience with fellow students, helping them learn **problem solving**, build a solid foundation, and participate in **global competitive programming contests**.
 
 ---
+
+## 📚 Level 0 – Learning Roadmap
+
+| Topic            | Status     | Date Covered      |
+|------------------|------------|-------------------|
+| Data Types        | ✅ Done     | `28/06/2025`       |
+| Conditions        | ✅ Done     | `28/06/2025`       |
+| Loops             | ⏳ Upcoming |                   |
+| Arrays            | ⏳ Upcoming |                   |
+| Strings           | ⏳ Upcoming |                   |
+| Functions         | ⏳ Upcoming |                   |
+| Recursion         | ⏳ Upcoming |                   |
+| Time Complexity   | ⏳ Upcoming |                   |
+
+---
+
+## 📆 Schedule & Guidelines
+
+### ⏰ Weekly Session
+- **Day**: Every **Saturday**
+- **Time**: **8:30 PM** (Cairo time)
+- **Duration**: Approximately **2 hours**
+
+### 🎥 Are Sessions Recorded?
+- Yes, but **they will be shared later** to encourage live participation and engagement.
+
+### 🧠 What is the "Up Solve" Session?
+- A **weekly review session** where we go over the problems discussed in the main session.
+- These are **recorded** and shared by the end of each week.
+
+### 📦 Are There Learning Materials?
+- Yes! We provide **high-quality resources**, explanations, and problem sets to support your learning journey.
+
+### 🏆 Are There Mandatory Contests?
+- Yes, every **two weeks**, we hold a **mandatory contest** to track your progress and apply what you've learned.
+
+### ✅ Sheet Submission Policy
+- You **must submit all required tasks on time**.
+
+---
+
+## 🚀 Final Note
+
+**Commitment is the key to success.**  
+Make sure to attend, solve, review, and stay consistent — together, we'll level up your programming skills!
+
+> *"Consistency beats intensity."*
+
+---
+
