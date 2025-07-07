@@ -14,7 +14,7 @@ We are a group of motivated students from the **Faculty of Science, Ain Shams Un
 |------------------|------------|-------------------|
 | Data Types        | ✅ Done     | `28/06/2025`       |
 | Conditions        | ✅ Done     | `28/06/2025`       |
-| Loops             | ⏳ Upcoming |                   |
+| Loops             | ✅ Done     |        `5/07/2025`        |
 | Arrays            | ⏳ Upcoming |                   |
 | Strings           | ⏳ Upcoming |                   |
 | Functions         | ⏳ Upcoming |                   |
