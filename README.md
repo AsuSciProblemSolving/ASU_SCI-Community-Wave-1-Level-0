@@ -12,14 +12,14 @@ We are a group of motivated students from the **Faculty of Science, Ain Shams Un
 
 | Topic            | Status     | Date Covered      |
 |------------------|------------|-------------------|
-| Data Types        | ✅ Done     | `28/06/2025`       |
-| Conditions        | ✅ Done     | `28/06/2025`       |
-| Loops             | ✅ Done     |        `5/07/2025`        |
-| Arrays            | ⏳ Upcoming |                   |
-| Strings           | ⏳ Upcoming |                   |
-| Functions         | ⏳ Upcoming |                   |
-| Recursion         | ⏳ Upcoming |                   |
-| Time Complexity   | ⏳ Upcoming |                   |
+| Data Types        | ✅ Done     | `28/06/2025`    |
+| Conditions        | ✅ Done     | `28/06/2025`    |
+| Loops             | ✅ Done     | `5/07/2025`     |
+| Arrays            | ✅ Done     | `12/07/2025`    |
+| Strings           | ✅ Done     | `12/07/2025`    |
+| Functions         | ⏳ Upcoming |                  |
+| Recursion         | ⏳ Upcoming |                  |
+| Time Complexity   | ⏳ Upcoming |                  |
 
 ---
 
