@@ -17,7 +17,8 @@ We are a group of motivated students from the **Faculty of Science, Ain Shams Un
 | Loops             | ✅ Done     | `5/07/2025`     |
 | Arrays            | ✅ Done     | `12/07/2025`    |
 | Strings           | ✅ Done     | `12/07/2025`    |
-| Functions         | ⏳ Upcoming |                  |
+| Functions         | ✅ Done     | `19/07/2025`    |
+| Pointers          | ✅ Done     | `19/07/2025`    |
 | Recursion         | ⏳ Upcoming |                  |
 | Time Complexity   | ⏳ Upcoming |                  |
 
