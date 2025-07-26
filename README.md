@@ -19,7 +19,7 @@ We are a group of motivated students from the **Faculty of Science, Ain Shams Un
 | Strings           | ✅ Done     | `12/07/2025`    |
 | Functions         | ✅ Done     | `19/07/2025`    |
 | Pointers          | ✅ Done     | `19/07/2025`    |
-| Recursion         | ⏳ Upcoming | `26/07/2025`    |
+| Recursion         | ✅ Done     | `26/07/2025`    |
 | Time Complexity   | ⏳ Upcoming |                 |
 
 ---
